@@ -24,7 +24,7 @@ google-colab (for Google Drive integration)
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/arabic-text-autocorrection.git
+git clone https://github.com/mohammadtarekkk/NLP-Project1.git
 cd arabic-text-autocorrection
 ```
 
